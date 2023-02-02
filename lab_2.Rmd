@@ -8,7 +8,7 @@ output:
 
 # Lab 2: Statistics in hydrology (30 pts)
 
-[*The repo for this lab can be found here*](https://github.com/tpcovino/lab_2){target="_blank"}
+[**The repo for this lab can be found here**](https://github.com/tpcovino/lab_2){target="_blank"}
 
 Address each of the questions in the code chunk below and/or by typing outside the chunk (for written answers).
 
@@ -83,3 +83,7 @@ Compute 3 measures of spread and 2 measures of central tendency for the PINE and
 
 ```
 
+
+# Deliverable
+
+Please knit this .Rmd as .html and submit both on D2L. This lab will be due Wednesday 2/8 at 11:59 PM. 

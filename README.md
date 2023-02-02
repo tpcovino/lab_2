@@ -1,2 +1,2 @@
 # lab_2
-In this lab we will be working on statistics in hydrology. 
+In this lab we will be working on statistics in hydrology. In this lab we will be analyzing hydrological distributions. We will compute statistical measures of various hydrological distributions, plot distributions, and use various statistical tests to evaluate them for normality. Please refer to Chapter 5: Statistics in hydrology - Unit 3 for guidance on this lab. You may also want to refer to Chapters 2 - 4 if you need to refresh your memory for code on data visualization and transformation. As usual, after you download the zip, put it the folder you work from for this class. First, open the .Rproj, then open the .Rmd. Save the .Rmd with your name in the file name. 
